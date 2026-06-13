@@ -65,6 +65,7 @@ coverage/
 .mypy_cache/
 
 .logfire
+ecpyenv/Scripts/activate
 
 experiments\.logfire
 
